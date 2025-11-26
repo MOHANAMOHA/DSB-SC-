@@ -68,6 +68,8 @@ subplot(3,1,3);
 plot(t,s);
 ```
 Output Graph
+
+
 <img width="748" height="659" alt="image" src="https://github.com/user-attachments/assets/1d6c4470-d923-40a9-8749-b83e60b93e59" />
 
 
